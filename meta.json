@@ -1,0 +1,23 @@
+{
+  "repo": "laragon-local-dev-environment-professional-complete-setup-guide",
+  "product": "Laragon Local Dev Environment Pro Complete Setup Guide",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "laragon-local-dev-pro",
+    "laragon-local-dev",
+    "laragon-local-pro",
+    "how-to-install-laragon-local-dev",
+    "how-to-setup-laragon-local-dev",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "laragon-dev"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Laragon Local Dev Environment Pro Complete Setup Guide"
+}
